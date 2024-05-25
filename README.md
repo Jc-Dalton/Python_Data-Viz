@@ -18,8 +18,8 @@ diagrams, combo/dual axis charts, stream graphs, etc.
 •From the processed data and obtained visualizations, generate at least 3 insightsthat lead to decision points/recommended actions
 
 
-</br>Kaggle dataset in this activity https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media</br> 
-You can use your own dataset\
+</br>Kaggle dataset used in this activity https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media</br> 
+You can use your own dataset
 
 
 
